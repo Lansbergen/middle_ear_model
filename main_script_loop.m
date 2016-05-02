@@ -605,7 +605,7 @@ end
 %%% graphs function
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-graphs_loop(var,freq,change)
+% graphs_loop(var,freq,change)
 
 
 %%
